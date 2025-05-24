@@ -31,6 +31,11 @@ The dataset consists of **chest X-ray images** divided into the following five c
 
 > Data augmentation techniques such as rotation, zoom, shift, shear, and horizontal flip were applied to increase model generalization.
 
+*You can get the dataset from Kaggle and download it using the below given link:*
+```bash
+https://www.kaggle.com/code/reemorere/lungs-disease-prediction
+```
+
 ---
 
 ## 🏗️ Methodology
