@@ -33,7 +33,7 @@ The dataset consists of **chest X-ray images** divided into the following five c
 
 *You can get the dataset from Kaggle and download it using the below given link:*
 ```bash
-[https://www.kaggle.com/code/reemorere/lungs-disease-prediction](https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types)
+https://www.kaggle.com/datasets/omkarmanohardalvi/lungs-disease-dataset-4-types
 ```
 
 ---
